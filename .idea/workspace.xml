@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e87a3d0-cbac-4b5e-8eaa-05db8ef6ba2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lab/src/main/agh/cs/lab/EvolutionMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/main/agh/cs/lab/EvolutionMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/main/agh/cs/lab/SimulationEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/main/agh/cs/lab/SimulationEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/main/agh/cs/lab/StartDataFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/main/agh/cs/lab/StartDataFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/main/agh/cs/lab/Vector2d.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/main/agh/cs/lab/Vector2d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/test/agh/cs/lab/AnimalStatisticTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/test/agh/cs/lab/AnimalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/test/agh/cs/lab/MapDirectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/test/agh/cs/lab/SymulatorEngineTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/test/agh/cs/lab/Vector2dTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qRBQurmYfmL857eXYpFOMoxolN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.75258917" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agh.cs.lab.World" />
+      <module name="project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab/src/main/agh/cs/lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SliceToolwindowSettings">
+    <option name="autoScroll" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e87a3d0-cbac-4b5e-8eaa-05db8ef6ba2b" name="Default Changelist" comment="" />
+      <created>1617032510905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617032510905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="194" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617032631883">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="449" y="194" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1617032631883" />
+    <state x="724" y="341" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617032833712">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="724" y="341" key="#com.intellij.ide.util.TreeClassChooserDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1617032833712" />
+    <state x="775" y="306" key="FileChooserDialogImpl" timestamp="1617032950182">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="775" y="306" key="FileChooserDialogImpl/70.0.1850.1080@70.0.1850.1080" timestamp="1617032950182" />
+    <state width="1807" height="364" key="GridCell.Tab.0.bottom" timestamp="1617037636416">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="364" key="GridCell.Tab.0.bottom/70.0.1850.1080@70.0.1850.1080" timestamp="1617037636416" />
+    <state width="1807" height="364" key="GridCell.Tab.0.center" timestamp="1617037636415">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="364" key="GridCell.Tab.0.center/70.0.1850.1080@70.0.1850.1080" timestamp="1617037636415" />
+    <state width="1807" height="364" key="GridCell.Tab.0.left" timestamp="1617037636415">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="364" key="GridCell.Tab.0.left/70.0.1850.1080@70.0.1850.1080" timestamp="1617037636415" />
+    <state width="1807" height="364" key="GridCell.Tab.0.right" timestamp="1617037636416">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="364" key="GridCell.Tab.0.right/70.0.1850.1080@70.0.1850.1080" timestamp="1617037636416" />
+    <state width="1807" height="364" key="GridCell.Tab.1.bottom" timestamp="1617037636416">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="364" key="GridCell.Tab.1.bottom/70.0.1850.1080@70.0.1850.1080" timestamp="1617037636416" />
+    <state width="1807" height="364" key="GridCell.Tab.1.center" timestamp="1617037636416">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="364" key="GridCell.Tab.1.center/70.0.1850.1080@70.0.1850.1080" timestamp="1617037636416" />
+    <state width="1807" height="364" key="GridCell.Tab.1.left" timestamp="1617037636416">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="364" key="GridCell.Tab.1.left/70.0.1850.1080@70.0.1850.1080" timestamp="1617037636416" />
+    <state width="1807" height="364" key="GridCell.Tab.1.right" timestamp="1617037636416">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="364" key="GridCell.Tab.1.right/70.0.1850.1080@70.0.1850.1080" timestamp="1617037636416" />
+    <state x="475" y="114" key="SettingsEditor" timestamp="1617034593899">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="475" y="114" key="SettingsEditor/70.0.1850.1080@70.0.1850.1080" timestamp="1617034593899" />
+    <state x="699" y="431" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617034055742">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="699" y="431" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/70.0.1850.1080@70.0.1850.1080" timestamp="1617034055742" />
+    <state x="695" y="297" key="refactoring.ChangeSignatureDialog" timestamp="1617036686020">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="695" y="297" key="refactoring.ChangeSignatureDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1617036686020" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab/src/main/agh/cs/lab/SimulationEngine.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab/src/main/agh/cs/lab/SimulationEngine.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab/src/main/agh/cs/lab/SimulationEngine.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab/src/main/agh/cs/lab/Animal.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab/src/main/agh/cs/lab/Animal.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab/src/main/agh/cs/lab/EvolutionMap.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab/src/main/agh/cs/lab/EvolutionMap.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
